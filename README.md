@@ -92,7 +92,7 @@ It's not necessary define the content for a section. If no content is specified 
 
 ## Use Cases
 
-#### Define a default content for the section
+### Define a default content for the section
 We can define a default content for the section in the layout. In this case if the view dosen't define a content for the section, its default content will be rendered.
 ```html
 <head>
@@ -122,7 +122,7 @@ for example the following code is incorrect
 {{/section}}
 ```
 
-#### Require content for the section
+### Require content for the section
 You can force to require a content for a section, throwing an Error if no content is defined.
 ```html
 <head>

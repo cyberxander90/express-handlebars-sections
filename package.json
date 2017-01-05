@@ -1,6 +1,6 @@
 {
   "name": "express-handlebars-sections",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Include Handlebar Helper to manage sections in layouts.",
   "main": "index.js",
   "scripts": {
@@ -14,5 +14,13 @@
     "express-handlebars"
   ],
   "author": "cyberxander90",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyberxander90/express-handlebars-sections/issues"
+  },
+  "homepage": "https://github.com/cyberxander90/express-handlebars-sections",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberxander90/express-handlebars-sections.git"
+  }
 }
